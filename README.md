@@ -1,45 +1,110 @@
-**Portfolio**
-Live Preview - [Click Here](https://salesp07.github.io/)
+# Lucky Parihar | Portfolio Website 2026
 
-<br/>
-<div align="center">
-  <img alt="Demo" src="public/mockup.png" />
-</div>
-<br/>
-<br/>
+A personal portfolio website built with React to showcase my work in AV systems, control programming, application engineering, and market development.
 
-# 🛠 Installation and Setup Instructions
+Live Preview: [Portfolio Website](https://luckyparihar11.github.io/Portfolio-Website-2026/)
 
-1. Fork and clone this repository. You will need NodeJs and Git installed on your machine..
+## About Me
 
-2. Installation: `npm install --legacy-peer-deps`
+I’m Lucky Parihar, a techie based in India with hands-on experience across Crestron, Q-SYS, Biamp, AMX, and AV over IP systems. I work across DSP, control logic, commissioning, project delivery, and customer-facing product demonstrations.
 
-3. In the project directory, you can run: `npm start`\
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+My experience includes:
+- Programming and commissioning AV rooms, divisible spaces, and conference systems
+- Building custom control logic with Crestron SIMPL, SIMPL+, C#, Q-SYS Lua, and Cisco xAPI
+- Delivering AV-over-IP solutions and room integration workflows
+- Supporting sales, demos, BOQs, schematics, and application engineering
+- Mentoring and training students in coding and technology
 
-# Usage Instructions
+## Featured Work
 
-1. Open the project folder and Navigate to `/src/assets/data` and add your projects details.
+- NVX Preview Dashboard — open-source tool for Crestron NVX estate monitoring
+- Custom AV control and automation systems for enterprise and luxury spaces
+- Multi-room collaborative spaces, training rooms, and hospitality integrations
+- Hands-on commissioning and on-site support for AV systems
 
-2. You will find all the components used and you can edit your information accordingly.
+## Skills
 
-# Deploy with Github Pages
+- AV Control: Crestron, Q-SYS, AMX, Biamp, Extron
+- DSP & Audio: Q-SYS, Biamp Tesira, BSS, Shure, Bose, Dante
+- Programming: C#, Python, JavaScript, Node.js, React, Java
+- Tools: Git, VS Code, Figma, SQL, Excel automation
 
-1. Name your fork `<your-github-username>.github.io`
-2. Edit the `homepage` property on your `package.json` file
+## Experience Snapshot
 
-      `"homepage": "http://<your-github-username>.github.io/"`
+- Programmer, Associate at AVI-SPL
+- Jr. AV Programmer at Actis Technologies
+- AV Application and Pre-Sales Engineer at Arihant Infosys
+- Mentor at CodeYoung
 
+## Tech Stack
 
-3. Deploy the app
+This portfolio is built with:
+- React.js
+- Styled Components
+- JavaScript
+- GitHub Pages deployment
 
-   `npm run deploy`
+## Project Structure
 
-## Contribute
+```bash
+src/
+  components/
+  data/
+  pages/
+public/
+README.md
+package.json
+```
 
-Pull Requests are welcome :)
+## Installation
 
-## Show your support
+1. Clone the repository
+   ```bash
+   git clone https://github.com/Luckyparihar11/Portfolio-Website-2026.git
+   ```
 
-Give a ⭐ if you like this website!
+2. Open the project folder
+   ```bash
+   cd Portfolio-Website-2026
+   ```
+
+3. Install dependencies
+   ```bash
+   npm install
+   ```
+
+4. Run the app locally
+   ```bash
+   npm start
+   ```
+
+5. Open in your browser at
+   ```bash
+   http://localhost:3000
+   ```
+
+## Deployment
+
+This project is configured to deploy with GitHub Pages.
+
+```bash
+npm run deploy
+```
+
+## GitHub
+
+- Portfolio Repo: [Luckyparihar11/Portfolio-Website-2026](https://github.com/Luckyparihar11/Portfolio-Website-2026)
+- NVX Preview Dashboard: [Luckyparihar11/NVX-Preview-Dashboard](https://github.com/Luckyparihar11/NVX-Preview-Dashboard)
+
+## Contact
+
+- GitHub: [@Luckyparihar11](https://github.com/Luckyparihar11)
+- Email: available via portfolio contact section
+
+## License
+
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+
+---
+
+Built with passion for AV technology, automation, and product engineering.
