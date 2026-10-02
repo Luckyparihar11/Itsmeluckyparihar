@@ -1,14 +1,15 @@
-# Lucky Parihar | Portfolio Website 2026
+# Lucky Parihar | It's Me Lucky Parihar
 
 A personal portfolio website built with React to showcase my work in AV systems, control programming, application engineering, and market development.
 
-Live Preview: [Portfolio Website](https://luckyparihar11.github.io/Portfolio-Website-2026/)
+Live Preview: [Portfolio Website](https://luckyparihar11.github.io/Itsmeluckyparihar/)
 
 ## About Me
 
 I’m Lucky Parihar, a techie based in India with hands-on experience across Crestron, Q-SYS, Biamp, AMX, and AV over IP systems. I work across DSP, control logic, commissioning, project delivery, and customer-facing product demonstrations.
 
 My experience includes:
+
 - Programming and commissioning AV rooms, divisible spaces, and conference systems
 - Building custom control logic with Crestron SIMPL, SIMPL+, C#, Q-SYS Lua, and Cisco xAPI
 - Delivering AV-over-IP solutions and room integration workflows
@@ -39,6 +40,7 @@ My experience includes:
 ## Tech Stack
 
 This portfolio is built with:
+
 - React.js
 - Styled Components
 - JavaScript
@@ -59,21 +61,25 @@ package.json
 ## Installation
 
 1. Clone the repository
+
    ```bash
-   git clone https://github.com/Luckyparihar11/Portfolio-Website-2026.git
+   git clone https://github.com/Luckyparihar11/Itsmeluckyparihar.git
    ```
 
 2. Open the project folder
+
    ```bash
-   cd Portfolio-Website-2026
+   cd Itsmeluckyparihar
    ```
 
 3. Install dependencies
+
    ```bash
    npm install
    ```
 
 4. Run the app locally
+
    ```bash
    npm start
    ```
@@ -93,7 +99,7 @@ npm run deploy
 
 ## GitHub
 
-- Portfolio Repo: [Luckyparihar11/Portfolio-Website-2026](https://github.com/Luckyparihar11/Portfolio-Website-2026)
+- Portfolio Repo: [Luckyparihar11/Itsmeluckyparihar](https://github.com/Luckyparihar11/Itsmeluckyparihar)
 - NVX Preview Dashboard: [Luckyparihar11/NVX-Preview-Dashboard](https://github.com/Luckyparihar11/NVX-Preview-Dashboard)
 
 ## Contact
