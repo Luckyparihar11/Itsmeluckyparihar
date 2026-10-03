@@ -5,9 +5,9 @@ const Header = ({ toggle }) => {
   return (
     <div className="Container" style={{padding: 0}}>
       <Nav>
-        <Logo to="/">
+        <Logo to={process.env.PUBLIC_URL + "/"}>
           <img
-            src="/logo.png"
+            src={process.env.PUBLIC_URL + "/logo.png"}
             alt="logo"
           />
         </Logo>
@@ -28,7 +28,7 @@ const Header = ({ toggle }) => {
         <NavBtn>
           <a
             className="btn PrimaryBtn"
-            href="https://drive.google.com/file/d/1vXeHD039IBS6YvAd5XBQckmlsLu3DdQl/view"
+            href="https://drive.google.com/file/d/19hsXwW1WaslZF5wUsIlkdExpOg5Mpjv2/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
           >
