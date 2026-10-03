@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Itsmeluckyparihar/static/css/main.314be72d.css",
-    "main.js": "/Itsmeluckyparihar/static/js/main.2e7bd1ed.js",
+    "main.js": "/Itsmeluckyparihar/static/js/main.b936a76b.js",
     "index.html": "/Itsmeluckyparihar/index.html",
     "static/media/blob-haikei.svg": "/Itsmeluckyparihar/static/media/blob-haikei.ed4231cd548cd312fe4f.svg",
     "main.314be72d.css.map": "/Itsmeluckyparihar/static/css/main.314be72d.css.map",
-    "main.2e7bd1ed.js.map": "/Itsmeluckyparihar/static/js/main.2e7bd1ed.js.map"
+    "main.b936a76b.js.map": "/Itsmeluckyparihar/static/js/main.b936a76b.js.map"
   },
   "entrypoints": [
     "static/css/main.314be72d.css",
-    "static/js/main.2e7bd1ed.js"
+    "static/js/main.b936a76b.js"
   ]
 }
